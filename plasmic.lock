@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "projectId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+      "version": "3.18.0",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+          "type": "projectCss",
+          "checksum": "9fe64c4dd8439ba4d2df6de161f0ad40"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "cpXTdRbLYtvtvQkGB5qC16",
+      "version": "latest",
+      "dependencies": {
+        "caTPwKxj5ZrD9LQ7DMdK4Z": "3.18.0"
+      },
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "sFOxWC5rjLBzz",
+          "checksum": "7caf08a5a995e921b589d5780bb5f96f"
+        },
+        {
+          "assetId": "cpXTdRbLYtvtvQkGB5qC16",
+          "type": "projectCss",
+          "checksum": "9e7bae37cac9b045c9d7d9e8ee85165b"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "lWzho81TthM6W",
+          "checksum": "49c58aa7accab8c829477cc9b7b9d59f"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "lWzho81TthM6W",
+          "checksum": "49c58aa7accab8c829477cc9b7b9d59f"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "sqLhHiuHVaMcJ",
+          "checksum": "b47e80a7d24e1fdded309db4ef3ea096"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "sqLhHiuHVaMcJ",
+          "checksum": "b47e80a7d24e1fdded309db4ef3ea096"
+        },
+        {
+          "type": "image",
+          "assetId": "LDAoZnAJWWUow",
+          "checksum": "bfa90a0e4c57c55a6b08db463b2174c6"
+        },
+        {
+          "type": "image",
+          "assetId": "so0VYc_P_S_kQ",
+          "checksum": "df62b67f6536aa94337257a056276aa7"
+        },
+        {
+          "type": "image",
+          "assetId": "lHswpuu8UfonZ",
+          "checksum": "6a18f7b3d699cce20c85e261e9a48367"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.284"
+}
